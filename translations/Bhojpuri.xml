@@ -12,7 +12,7 @@
 <string name="delete">डिलीट</string>
 <string name="block">ब्लॉक</string>
 <string name="request_sent">रिक्वेस्ट भेज दिहल गइल बा</string>
-<string name="content_description_error">એરર</string>
+<string name="content_description_error">एरर</string>
 <string name="update_app_cta">ऐप अपडेट करीं</string>
 <string name="all_undo">पहिले के स्थिति में जाईं</string>
 <string name="vg_total_spent">%s खर्च</string>
@@ -170,3 +170,10 @@
 <string name="live_stream_paused">लाइव वीडियो रोकल गइल बा</string>
 <string name="tooltip_new_requests">इहां देखीं नया लाइव रिक्वेस्ट</string>
 <string name="tooltip_send_request">लाइव जॉइन करे खातिर टैप करीं</string>
+<string name="deleted_message_label"></string>
+<string name="co_host_removed_by_host"></string>
+<string name="cancelling_request"></string>
+<string name="joining_live_request"></string>
+<string name="tnc_subtitle"></string>
+<string name="tnc_fact"></string>
+<string name="preparing_to_go_live"></string>

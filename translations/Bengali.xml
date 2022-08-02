@@ -12,7 +12,7 @@
 <string name="delete">ডিলিট </string>
 <string name="block">ব্লক </string>
 <string name="request_sent">রিক্যুয়েস্ট সেন্ড করুন </string>
-<string name="content_description_error">एरर</string>
+<string name="content_description_error">এরর </string>
 <string name="update_app_cta">অ্যাপ আপডেট করুন </string>
 <string name="all_undo">করবেন না </string>
 <string name="vg_total_spent">%s খরচ হয়েছে</string>
@@ -172,3 +172,10 @@
 <string name="live_stream_paused">লাইভ ভিডিও থেমে গিয়েছে </string>
 <string name="tooltip_new_requests">নতুন লাইভ রিক্যুয়েস্টগুলি দেখুন </string>
 <string name="tooltip_send_request">লাইভ জয়েন করতে ট্যাপ করুন </string>
+<string name="deleted_message_label">এই কমেন্টটি ডিলিট করা হয়েছে।</string>
+<string name="co_host_removed_by_host">হোস্ট আপনাকে লাইভস্ট্রিম থেকে রিমুভ করে দিয়েছেন। যদিও আপনি এখনও লাইভ দেখতে পারবেন।</string>
+<string name="cancelling_request">রিক্যুয়েস্ট ক্যান্সেল করা হয়েছে...</string>
+<string name="joining_live_request">লাইভে জয়েন করা হচ্ছে...</string>
+<string name="tnc_subtitle">আপনার পাবলিশ করা কন্টেন্টগুলি শেয়ারচ্যাটকে সুরক্ষিত ও অনুপ্রেরণাদায়ক জায়গা হিসেবে গড়ে উঠতে সহায়তা করে।  কন্টেন্ট ক্রিয়েট করেন এমন প্রত্যেককেই কন্টেন্ট পাবলিশ করার আগে ক্রিয়েটর কোড পড়তে হবে।  </string>
+<string name="tnc_fact">আমার ফ্যাক্ট চেক করুন, নিশ্চিত করুন যে তথ্যগুলি যথার্থ ও সত্যি।</string>
+<string name="preparing_to_go_live">লাইভ করার জন্য প্রস্তুত হন।</string>

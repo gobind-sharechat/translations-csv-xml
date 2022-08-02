@@ -12,9 +12,9 @@
 <string name="delete">ਡਿਲੀਟ</string>
 <string name="block">ਬਲਾਕ</string>
 <string name="request_sent">ਰਿਕੁਐਸਟ ਭੇਜੀ ਗਈ</string>
-<string name="content_description_error">एरर   </string>
+<string name="content_description_error">ਐਰਰ </string>
 <string name="update_app_cta">ਐਪ ਅੱਪਡੇਟ ਕਰੋ</string>
-<string name="all_undo">Undo</string>
+<string name="all_undo">ਵਾਪਿਸ/Undo </string>
 <string name="vg_total_spent">%s ਖ਼ਰਚ ਕੀਤਾ ਗਿਆ</string>
 <string name="something_went_wrong">ਕੁੱਝ ਗਲਤ ਹੋ ਗਿਆ.</string>
 <string name="retry">ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
@@ -170,3 +170,10 @@
 <string name="live_stream_paused">ਲਾਈਵ ਵੀਡੀਓ \n ਰੋਕੀ ਗਈ</string>
 <string name="tooltip_new_requests">ਇੱਥੇ ਨਵੀਆਂ ਲਾਈਵ ਰਿਕੁਐਸਟ ਦੇਖੋ</string>
 <string name="tooltip_send_request">ਲਾਈਵ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਲਈ ਟੈਪ ਕਰੋ</string>
+<string name="deleted_message_label">ਇਹ ਕਮੈਂਟ ਡਿਲੀਟ ਕਰ ਦਿੱਤਾ ਗਿਆ</string>
+<string name="co_host_removed_by_host">ਹੋਸਟ ਨੇ ਤੁਹਾਨੂੰ ਲਾਈਵਸਟ੍ਰੀਮ ਤੋਂ ਹਟਾ ਦਿੱਤਾ ਹੈ। ਤੁਸੀਂ ਅਜੇ ਵੀ ਦੇਖਣਾ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ।</string>
+<string name="cancelling_request">ਰਿਕੁਐਸਟ ਕੈਂਸਲ ਕਰ ਰਹੇ ਹਾਂ...</string>
+<string name="joining_live_request">ਲਾਈਵ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰ ਰਹੇ ਹਾਂ...</string>
+<string name="tnc_subtitle">ਤੁਹਾਡੇ ਦੁਆਰਾ ਪਬਲਿਸ਼ ਕੰਟੈਂਟ ਸ਼ੇਅਰਚੈਟ ਨੂੰ ਇੱਕ ਸੁਰੱਖਿਅਤ ਅਤੇ ਪ੍ਰੇਰਨਾਦਾਇਕ ਸਥਾਨ ਬਣਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ। ਤੁਸੀਂ ਜੋ ਵੀ ਕੰਟੈਂਟ ਬਣਾਉਂਦੇ ਹੋ ਉਸ ਨੂੰ ਪਬਲਿਸ਼ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਕ੍ਰੀਏਟਰ ਕੋਡ ਨੂੰ ਪੜ੍ਹਨਾ ਅਤੇ ਸਹਿਮਤ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ।</string>
+<string name="tnc_fact">ਮੇਰੇ ਫੈਕਟਸ ਚੈੱਕ ਕਰੋ, ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਜਾਣਕਾਰੀ ਸਹੀ ਅਤੇ ਠੀਕ ਹੈ।</string>
+<string name="preparing_to_go_live">ਲਾਈਵ ਹੋਣ ਦੀ ਤਿਆਰੀ ਕਰ ਰਹੇ ਹਾਂ...</string>

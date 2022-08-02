@@ -12,9 +12,9 @@
 <string name="delete">நீக்கவும் </string>
 <string name="block">தடை செய் </string>
 <string name="request_sent">வேண்டுகோள் அனுப்பப்பட்டது</string>
-<string name="content_description_error">ایرر</string>
+<string name="content_description_error">பிழை</string>
 <string name="update_app_cta">ஆப் அப்டேட் செய்யவும்  </string>
-<string name="all_undo">اَن ڈو</string>
+<string name="all_undo">Undo </string>
 <string name="vg_total_spent">%s செலவிடப்பட்டது</string>
 <string name="something_went_wrong">ஏதோ தவறாகிவிட்டது </string>
 <string name="retry">மீண்டும் முயற்சிக்கவும் </string>
@@ -170,3 +170,10 @@
 <string name="live_stream_paused">நேரலை வீடியோ\nஇடைநிறுத்தப்பட்டது</string>
 <string name="tooltip_new_requests">புதிய லைவ் ரிக்குவஸ்டை இங்கே பார்க்கவும்  </string>
 <string name="tooltip_send_request">லைவில் சேர தட்டவும் </string>
+<string name="deleted_message_label">இந்த கமெண்ட் நீக்கப்பட்டது</string>
+<string name="co_host_removed_by_host">ஹோஸ்ட் உங்களை லைவ்ஸ்ட்ரீமில் இருந்து அகற்றியுள்ளார்.  நீங்கள் தொடர்ந்து பார்க்கலாம்.</string>
+<string name="cancelling_request">ரிக்குவஸ்ட்டை ரத்து செய்கிறது..</string>
+<string name="joining_live_request">லைவில் இணைகிறீர்கள்</string>
+<string name="tnc_subtitle">நீங்கள் வெளியிடும் உள்ளடக்கம், ஷேர்சாட்டை பாதுகாப்பான மற்றும் ஊக்கமளிக்கும் இடமாக மாற்ற உதவுகிறது.  உள்ளடக்கத்தை உருவாக்கும் எவரும் அதை வெளியிடும் முன் கிரியேட்டர் குறியீட்டைப் படித்து ஒப்புக்கொள்ள வேண்டும்.</string>
+<string name="tnc_fact">எனது தகவல்களை சரிபார்க்கவும், தகவல் துல்லியமாகவும் உண்மையாகவும் இருப்பதை உறுதிசெய்யவும்.</string>
+<string name="preparing_to_go_live">லைவ் செல்ல தயார் செய்யப்படுகிறது</string>

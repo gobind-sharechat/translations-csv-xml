@@ -29,7 +29,7 @@ createReadStream("./csv/livestreamTranslations.csv")
       .pipe(parse({ delimiter: ",", from_line: 2 }))
       .on("data", (row) => {
         const key = row[0];
-        const translations = row.slice(1).filter((value) => value.length > 0);
+        const translations = row.slice(1);
         translations.forEach((translation, index) => {
           if (index >= languages.length) return;
           appendFileSync(

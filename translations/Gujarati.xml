@@ -12,7 +12,7 @@
 <string name="delete">ડિલીટ</string>
 <string name="block">બ્લોક</string>
 <string name="request_sent">રિક્વેસ્ટ મોકલી</string>
-<string name="content_description_error">एरर</string>
+<string name="content_description_error">એરર</string>
 <string name="update_app_cta">એપ અપડેટ કરો</string>
 <string name="all_undo">પાછું લાવો</string>
 <string name="vg_total_spent">%s ખર્ચ્યા</string>
@@ -170,3 +170,10 @@
 <string name="live_stream_paused">લાઇવ વિડિઓ\nરોકવામાં આવ્યો</string>
 <string name="tooltip_new_requests">અહીં નવી લાઇવ રિક્વેસ્ટ જુઓ</string>
 <string name="tooltip_send_request">લાઇવ જોઇન કરવા માટે ટેપ કરો</string>
+<string name="deleted_message_label">આ કમેન્ટ ડિલીટ કરી દેવાઇ છે</string>
+<string name="co_host_removed_by_host">હોસ્ટે તમને લાઇવસ્ટ્રીમમાંથી દૂર કર્યા છે. તમે હજુ પણ જોવાનું ચાલુ રાખી શકો છો.</string>
+<string name="cancelling_request">રિક્વેસ્ટ રદ કરી રહ્યાં છીએ...</string>
+<string name="joining_live_request">લાઈવમાં જોડાઈ રહ્યાં છીએ...</string>
+<string name="tnc_subtitle">તમે જે કન્ટેન્ટ પબ્લિક કર્યું છે તે શેરચેટને સુરક્ષિત અને પ્રેરણાદાયી સ્થાન બનાવવામાં મદદ કરે છે. જ્યારે કોઈ કન્ટેન્ટ બનાવે છે ત્યારે તેને પબ્લિક કરતા પહેલા ક્રિએટર કોડ ને વાંચવું અને તેની સાથે સંમત થવું આવશ્યક છે.</string>
+<string name="tnc_fact">મારા ફેક્ટ્સ ચેક કરો, ખાતરી કરો કે માહિતી સચોટ અને તથ્યપૂર્ણ છે.</string>
+<string name="preparing_to_go_live">લાઇવ થવાની તૈયારી કરી રહ્યાં છીએ...</string>

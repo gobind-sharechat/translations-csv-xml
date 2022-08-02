@@ -170,3 +170,10 @@
 <string name="live_stream_paused">Live video\npaused</string>
 <string name="tooltip_new_requests">See new live requests here</string>
 <string name="tooltip_send_request">Tap to join Live</string>
+<string name="deleted_message_label">This comment is deleted</string>
+<string name="co_host_removed_by_host">Host has removed you from Livestream. You can still continue to watch.</string>
+<string name="cancelling_request">Cancelling Request…</string>
+<string name="joining_live_request">Joining live…</string>
+<string name="tnc_subtitle">The content you publish help make sharechat a safe and inspiring place. Anyone who creates content must read and agree to the creator code before publishing it.</string>
+<string name="tnc_fact">Check my facts, Make sure information is accurate and factual.</string>
+<string name="preparing_to_go_live">Preparing to go live…</string>

@@ -13,9 +13,9 @@
 <string name="delete">ಡಿಲೀಟ್</string>
 <string name="block">ಬ್ಲಾಕ್</string>
 <string name="request_sent">ರಿಕ್ವೆಸ್ಟ್ ಕಳುಹಿಸಲಾಗಿದೆ</string>
-<string name="content_description_error">എറർ </string>
+<string name="content_description_error">ಎರರ್</string>
 <string name="update_app_cta">ಆ್ಯಪ್ ಅಪ್​ಡೇಟ್ ಮಾಡಿ</string>
-<string name="all_undo">Undo</string>
+<string name="all_undo"></string>
 <string name="vg_total_spent">%s ಖರ್ಚು ಮಾಡಲಾಗಿದೆ</string>
 <string name="something_went_wrong">ಏನೋ ತಪ್ಪಾಗಿದೆ.</string>
 <string name="retry">ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
@@ -185,3 +185,12 @@
 <string name="tooltip_new_requests">ಹೊಸ ಲೈವ್ ರಿಕ್ವೆಸ್ಟ್ ಗಳನ್ನು ಇಲ್ಲಿ ನೋಡಿ</string>
 <string name="tooltip_send_request">
 ಲೈವ್‌ಗೆ ಜಾಯಿನ್ ಆಗಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+<string name="deleted_message_label">
+ಈ ಕಾಮೆಂಟ್ ಅನ್ನು ಡಿಲೀಟ್ ಮಾಡಲಾಗಿದೆ</string>
+<string name="co_host_removed_by_host">
+ಹೋಸ್ಟ್ ನಿಮ್ಮನ್ನು ಲೈವ್‌ಸ್ಟ್ರೀಮ್‌ನಿಂದ ತೆಗೆದುಹಾಕಿದ್ದಾರೆ. ನೀವು ಇನ್ನೂ ವೀಕ್ಷಿಸುವುದನ್ನು ಮುಂದುವರಿಸಬಹುದು.</string>
+<string name="cancelling_request">ರಿಕ್ವೆಸ್ಟ್ ಅನ್ನು ಕ್ಯಾನ್ಸಲ್ ಮಾಡಲಾಗುತ್ತಿದೆ...</string>
+<string name="joining_live_request">ಲೈವ್ ಗೆ ಜಾಯಿನ್ ಆಗುತ್ತಿದ್ದೀರಿ...</string>
+<string name="tnc_subtitle">ನೀವು ಪ್ರಕಟಿಸುವ ಕಂಟೆಂಟ್ ಶೇರ್‌ಚಾಟ್ ಅನ್ನು ಸುರಕ್ಷಿತ ಮತ್ತು ಸ್ಪೂರ್ತಿದಾಯಕ ಸ್ಥಳವನ್ನಾಗಿ ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಕಂಟೆಂಟ್ ಕ್ರಿಯೇಟ್ ಮಾಡುವ ಎಲ್ಲರೂ ಅದನ್ನು ಪ್ರಕಟಿಸುವ ಮೊದಲು ಕಂಟೆಂಟ್ ಕೋಡ್ ಅನ್ನು ಓದಬೇಕು ಮತ್ತು ಒಪ್ಪಿಕೊಳ್ಳಬೇಕು.</string>
+<string name="tnc_fact">ಮೈ ಫ್ಯಾಕ್ಟ್ಸ್ ಚೆಕ್ ಮಾಡಿ, ಮಾಹಿತಿಯು ನಿಖರ ಮತ್ತು ವಾಸ್ತವಿಕವಾಗಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.</string>
+<string name="preparing_to_go_live">ಲೈವ್‌ಗೆ ಹೋಗಲು ತಯಾರಾಗುತ್ತಿದೆ...</string>

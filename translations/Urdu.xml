@@ -12,7 +12,9 @@
 <string name="delete">ڈیلیٹ کریں</string>
 <string name="block"> بلاک کریں</string>
 <string name="request_sent">ریکویسٹ بھیج دی گئی ہے</string>
+<string name="content_description_error">ایرر</string>
 <string name="update_app_cta">ایپ کو اپ ڈیٹ کریں</string>
+<string name="all_undo">اَن ڈو</string>
 <string name="vg_total_spent">%s خرچ ہوا</string>
 <string name="something_went_wrong">کچھ غلط ہو گیا</string>
 <string name="retry">دوبارہ کوشش کریں</string>
@@ -168,3 +170,10 @@
 <string name="live_stream_paused">لائیو ویڈیو\nروک دی گئی ہے</string>
 <string name="tooltip_new_requests">نئی لائیو ریکویسٹس یہاں دیکھیں</string>
 <string name="tooltip_send_request">لائیو میں شامل ہونے کے لیے کلک کریں</string>
+<string name="deleted_message_label"></string>
+<string name="co_host_removed_by_host"></string>
+<string name="cancelling_request"></string>
+<string name="joining_live_request"></string>
+<string name="tnc_subtitle"></string>
+<string name="tnc_fact"></string>
+<string name="preparing_to_go_live"></string>

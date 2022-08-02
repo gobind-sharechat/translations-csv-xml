@@ -12,9 +12,9 @@
 <string name="delete">ଡିଲିଟ</string>
 <string name="block">ବ୍ଲକ୍</string>
 <string name="request_sent">ରିକ୍ବେଷ୍ଟ ପଠାଯାଇଛି</string>
-<string name="content_description_error">ਐਰਰ </string>
+<string name="content_description_error">ତ୍ରୁଟି</string>
 <string name="update_app_cta">ଆପ୍ ଅପଡେଟ୍ କରନ୍ତୁ</string>
-<string name="all_undo">ਵਾਪਿਸ/Undo </string>
+<string name="all_undo">ଅନ୍‌ଡୁ କରନ୍ତୁ</string>
 <string name="vg_total_spent">%s ଖର୍ଚ୍ଚ ହୋଇଛି</string>
 <string name="something_went_wrong">କିଛି ଭୁଲ ହୋଇ ଗଲା</string>
 <string name="retry">ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ</string>
@@ -170,3 +170,10 @@
 <string name="live_stream_paused">ଲାଇଭ୍ ଭିଡିଓ \n ପଜ୍‌ କରାଯାଇଛି</string>
 <string name="tooltip_new_requests">ଏଠାରେ ନୂଆ ଲାଇଭ୍ ରିକ୍ବେଷ୍ଟ ଦେଖନ୍ତୁ</string>
 <string name="tooltip_send_request">ଲାଇଭରେ ଜଏନ୍ କରିବାକୁ ଟ୍ୟାପ୍ କରନ୍ତୁ</string>
+<string name="deleted_message_label">କମେଣ୍ଟ ଡିଲିଟ୍‌ ହୋଇଯାଇଛି</string>
+<string name="co_host_removed_by_host">ହୋଷ୍ଟ ଆପଣଙ୍କୁ ଲାଇଭଷ୍ଟ୍ରୀମ୍‌ରୁ ହଟାଇଦେଇଛନ୍ତି। ଆପଣ ତଥାପି ଦେଖିବା ଜାରି ରଖିପାରିବେ।</string>
+<string name="cancelling_request">ରିକ୍ବେଷ୍ଟ କ୍ୟାନସଲ କରାଯାଉଛି...</string>
+<string name="joining_live_request">ଲାଇଭ୍‌ ଜଏନ୍‌ କରୁଛନ୍ତି...</string>
+<string name="tnc_subtitle">ଆପଣ ପବ୍ଲିଶ୍‌ କରିଥିବା କଣ୍ଟେଣ୍ଟ ଶେୟରଚେଟ୍‌କୁ ଏକ ସୁରକ୍ଷିତ ଏବଂ ପ୍ରେରଣାଦାୟକ ସ୍ଥାନ ବନାଇବାରେ ସହାୟକ ହେବ। ଯେକେହି କଣ୍ଟେଣ୍ଟ କ୍ରିଏଟ୍‌ କରୁଛନ୍ତି, ପବ୍ଲିଶ୍‌ କରିବା ଆଗକରୁ କ୍ରିଏଟର କୋଡ୍‌ ପଢ଼ନ୍ତୁ ଏବଂ ଏଥିପ୍ରତି ସହମତି ଜଣାନ୍ତୁ।</string>
+<string name="tnc_fact">ମାଇଁ ଫ୍ୟାକ୍ଟ ଯାଞ୍ଚ କରନ୍ତୁ। ସୂଚନା ଯୁକ୍ତିଯୁକ୍ତ ଏବଂ ସତ୍ୟ ଆଧାରିତ କି ନା ନିଶ୍ଚିତ କରନ୍ତୁ।</string>
+<string name="preparing_to_go_live">ଲାଇଭ୍‌ ଯିବା ପାଇଁ ପ୍ରସ୍ତୁତି ଚାଲିଛି...</string>

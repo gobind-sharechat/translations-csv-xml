@@ -12,7 +12,7 @@
 <string name="delete">ডিলিট </string>
 <string name="block">ব্লক</string>
 <string name="request_sent">ৰিকুৱেষ্ট চেণ্ড কৰক</string>
-<string name="content_description_error">এরর </string>
+<string name="content_description_error"></string>
 <string name="update_app_cta">এপ আপডেট কৰক</string>
 <string name="all_undo">ঘূৰাই আনক</string>
 <string name="vg_total_spent">%s খৰচ হৈছে</string>
@@ -170,3 +170,10 @@
 <string name="live_stream_paused">লাইভ ভিডিঅ' \n ৰৈ গৈছে</string>
 <string name="tooltip_new_requests">ইয়াত চাওক নতুন ৰিকুৱেষ্টবোৰ</string>
 <string name="tooltip_send_request">লাইভত জইন কৰিবলৈ টেপ কৰক</string>
+<string name="deleted_message_label">এই কমেণ্টতো ডিলিট কৰা হৈছে</string>
+<string name="co_host_removed_by_host">হোষ্টে লাইভষ্ট্ৰীমৰ পৰা আপোনাক ৰিমুভ কৰিছে। যদিও আপুনি লাইভটো চাই থাকিব পাৰিব </string>
+<string name="cancelling_request">ৰিকুৱেষ্ট বাতিল কৰি থকা হৈছে...</string>
+<string name="joining_live_request">লাইভ জইন কৰি থকা হৈছে…</string>
+<string name="tnc_subtitle">আপুনি পোষ্ট কৰা কন্টেন্টবোৰে শ্বেয়াৰচাটক এক সুৰক্ষিত আৰু প্ৰেৰণাদায়ক স্থান হিচাপে গঢ়াত সহায় কৰে। কোনো ব্যক্তিয়ে কন্টেন্ট ক্ৰিয়েট কৰি পোষ্ট কৰাৰ পূৰ্বে ক্ৰিয়েটৰ কোড পঢ়িব লাগিব আৰু সন্মত হ'ব লাগিব।</string>
+<string name="tnc_fact">মোৰ ফেক্টচ চেক কৰক, নিশ্চিত কৰক যে তথ্যবোৰ সঠিক আৰু সঁচা</string>
+<string name="preparing_to_go_live">লাইভত যোৱাৰ বাবে প্ৰস্তুতি চলাই থকা হৈছে ...</string>

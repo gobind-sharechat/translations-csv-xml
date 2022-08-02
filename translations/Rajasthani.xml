@@ -12,9 +12,9 @@
 <string name="delete">डिलीट </string>
 <string name="block">ब्लॉक </string>
 <string name="request_sent">रिक्वेस्ट भेज दी गई है </string>
-<string name="content_description_error">பிழை</string>
+<string name="content_description_error">एरर   </string>
 <string name="update_app_cta">ऐप अपडेट करों    </string>
-<string name="all_undo">Undo </string>
+<string name="all_undo">Undo</string>
 <string name="vg_total_spent">%खर्च </string>
 <string name="something_went_wrong">कुछ गलत हो गयो है </string>
 <string name="retry">फेर स्यूं कोशिश करो </string>
@@ -170,3 +170,10 @@
 <string name="live_stream_paused">लाइव वीडियो\nपोज़ कियो गयो</string>
 <string name="tooltip_new_requests">अठे देखो नई लाइव रिक्वेस्ट</string>
 <string name="tooltip_send_request">लाइव जॉइन करबा खातिर टैप करो</string>
+<string name="deleted_message_label">ओ कमेंट डिलीट कर दियो गयो है </string>
+<string name="co_host_removed_by_host">होस्ट ने आपने लाइवस्ट्रीम स्यूं हटा दियो है। आप अभी भी देखणो जारी राख सको हो।</string>
+<string name="cancelling_request">रिक्वेस्ट कैंसिल कर रिया है...</string>
+<string name="joining_live_request">लाइव जॉइन कर रिया है…</string>
+<string name="tnc_subtitle">आपरे द्वारा पब्लिक कियो गयो कंटेंट शेयरचैट ने एक सुरक्षित और प्रेरित करबा आळी जगह बणाबा में मदद करे है। आप जो भी कंटेंट बणाओ हो उने पब्लिक करबा स्यूं पहल्यां क्रिएटर कोड ने पढ़नो और उ स्यूं सहमत होणो अनिवार्य है।</string>
+<string name="tnc_fact">म्हारा फैक्ट्स ने चेक करो, सुनिश्चित करो कि जाणकारी सटीक और सही है।</string>
+<string name="preparing_to_go_live">लाइव जाबा री तैयारी कर रिया हो...</string>

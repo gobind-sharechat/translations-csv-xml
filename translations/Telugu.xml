@@ -12,9 +12,9 @@
 <string name="delete">డిలీట్​</string>
 <string name="block">బ్లాక్​</string>
 <string name="request_sent">రిక్వెస్ట్ పంపించబడింది</string>
-<string name="content_description_error">ତ୍ରୁଟି</string>
+<string name="content_description_error">ఎర్రర్​</string>
 <string name="update_app_cta">యాప్ అప్​డేట్ చేయండి</string>
-<string name="all_undo">ଅନ୍‌ଡୁ କରନ୍ତୁ</string>
+<string name="all_undo">తిరిగిపొందండి</string>
 <string name="vg_total_spent">%s ఖర్చు చేశారు</string>
 <string name="something_went_wrong">ఏదో పొరపాటు జరిగింది</string>
 <string name="retry">మళ్లీ ప్రయత్నించండి</string>
@@ -170,3 +170,11 @@
 <string name="live_stream_paused">లైవ్​ వీడియో/n పాజ్​లో ఉంది</string>
 <string name="tooltip_new_requests">ఇక్కడ కొత్త లైవ్ రిక్వెస్ట్ చూడండి</string>
 <string name="tooltip_send_request">లైవ్​లో జాయిన్ అయ్యేందుకు టాప్ చేయండి</string>
+<string name="deleted_message_label">ఈ కామెంట్ తొలగించబడింది</string>
+<string name="co_host_removed_by_host">హోస్ట్ మిమ్మల్ని లైవ్​ స్ట్రీమ్​ నుంచి తొలగించారు. అయినప్పటికీ మీరు లైవ్ చూడొచ్చు.</string>
+<string name="cancelling_request">రిక్వెస్ట్ క్యాన్సిల్ అవుతోంది...</string>
+<string name="joining_live_request">లైవ్​లో జాయిన్ అవండి...</string>
+<string name="tnc_subtitle">
+మీరు ప్రచురించే కంటెంట్ షేర్‌చాట్‌ను సురక్షితమైన మరియు ఆదర్శవంతమైన ప్రదేశంగా మార్చడంలో సహాయపడుతుంది. కంటెంట్‌ని క్రియేట్ చేసే ఎవరైనా దానిని ప్రచురించే ముందు క్రియేటర్​ కోడ్‌ని తప్పక చదివి అంగీకరించాలి.</string>
+<string name="tnc_fact">మై ఫ్యాక్స్ చెక్​ చేయండి, సమాచారం కచ్చితమైన మరియు వాస్తవమైనదిగా నిర్ధారించుకోండి.</string>
+<string name="preparing_to_go_live">లైైవ్​కు వెళ్లేందుకు సిద్ధమవుతోంది...</string>

@@ -171,3 +171,10 @@
 <string name="live_stream_paused">लाइव वीडियो रोका गया</string>
 <string name="tooltip_new_requests">यहाँ देखो नई लाइव रिक्वेस्ट</string>
 <string name="tooltip_send_request">लाइव ज्वाइन करण खात्तर टैप करो</string>
+<string name="deleted_message_label">यो कमेंट डिलीट कर दिया गया सै</string>
+<string name="co_host_removed_by_host">होस्ट नै थाम लाइवस्ट्रीम तै हटा दिये सो। थाम ईबे भी देखणा जारी रख सको सो।</string>
+<string name="cancelling_request">रिक्वेस्ट कैंसिल करण लाग रहे सै...</string>
+<string name="joining_live_request">लाइव ज्वाइन करण लाग रहे सै…</string>
+<string name="tnc_subtitle">थारे द्वारा पब्लिक करा गया कंटेंट शेयरचैट नै एक सुरक्षित अर प्रेरित करण आली  जगह बनाण मै मदद करा करै। थाम जो भी कंटेंट बणाया करो उसनै पब्लिक करण तै पहलै क्रिएटर कोड पढ़णा अर उसतै सहमत होणा जरुरी सै। </string>
+<string name="tnc_fact">मेरे फैक्ट्स चेक करो, पक्का करो के जानकारी सटीक अर सही सै।</string>
+<string name="preparing_to_go_live">लाइव जाण की तैयारी करण लाग रहे सै...</string>
