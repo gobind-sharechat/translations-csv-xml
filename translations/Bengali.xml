@@ -179,3 +179,5 @@
 <string name="tnc_subtitle">আপনার পাবলিশ করা কন্টেন্টগুলি শেয়ারচ্যাটকে সুরক্ষিত ও অনুপ্রেরণাদায়ক জায়গা হিসেবে গড়ে উঠতে সহায়তা করে।  কন্টেন্ট ক্রিয়েট করেন এমন প্রত্যেককেই কন্টেন্ট পাবলিশ করার আগে ক্রিয়েটর কোড পড়তে হবে।  </string>
 <string name="tnc_fact">আমার ফ্যাক্ট চেক করুন, নিশ্চিত করুন যে তথ্যগুলি যথার্থ ও সত্যি।</string>
 <string name="preparing_to_go_live">লাইভ করার জন্য প্রস্তুত হন।</string>
+<string name="i_agree_with_tnc"></string>
+<string name="sc_live_tnc"></string>

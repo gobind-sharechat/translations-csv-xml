@@ -171,9 +171,11 @@
 <string name="tooltip_new_requests">പുതിയ ലൈവ് റിക്വസ്റ്റുകൾ ഇവിടെ കാണൂ</string>
 <string name="tooltip_send_request">ലൈവ് ആകാൻ ഇവിടെ ടാപ്പ് ചെയ്യൂ</string>
 <string name="deleted_message_label">ഈ കമന്റ് ഡിലീറ്റ് ചെയ്തു </string>
-<string name="co_host_removed_by_host">ഹോസ്റ്റ് നിങ്ങളെ ലൈവ് സ്‌ട്രീമിൽന്നും റിമൂവ് ചെയ്തു. നിങ്ങൾക്ക് തുടർന്നും കാണുന്നത് തുടരാം.</string>
+<string name="co_host_removed_by_host">ഹോസ്റ്റ് നിങ്ങളെ ലൈവ് സ്‌ട്രീമിൽ നിന്നും റിമൂവ് ചെയ്തു. നിങ്ങൾക്ക് തുടർന്നും കാണുന്നത് തുടരാം.</string>
 <string name="cancelling_request">റിക്വസ്റ്റ് റദ്ദാക്കുന്നു...</string>
 <string name="joining_live_request">ലൈവിൽ ജോയിൻ ചെയ്യുന്നു....</string>
 <string name="tnc_subtitle">നിങ്ങൾ പബ്ലീഷ് ചെയ്യുന്ന കണ്ടന്റ് ഷെയർചാറ്റിനെ സുരക്ഷിതവും പ്രചോദനാത്മകവുമായ ഇടമാക്കാൻ സഹായിക്കുന്നു. കണ്ടന്റ് ക്രിയേറ്റ് ചെയ്യുന്ന  ഏതൊരാളും അത് പബ്ലീഷ്  ചെയ്യും മുമ്പ് ക്രിയേറ്റർ  കോഡ് വായിക്കുകയും അംഗീകരിക്കുകയും വേണം.</string>
 <string name="tnc_fact">മൈ ഫാക്ട്സ് ചെക്ക് ചെയ്യൂ, വിവരങ്ങൾ കൃത്യവും വസ്തുതാപരവുമാണെന്ന് ഉറപ്പിക്കൂ!</string>
 <string name="preparing_to_go_live">ലൈവ് പോകാൻ റെഡിയാകുന്നു</string>
+<string name="i_agree_with_tnc">ഞാൻ അംഗീകരിക്കുന്നു </string>
+<string name="sc_live_tnc">ഷെയർചാറ്റ് ലൈവ് ലൈവ്  നിബന്ധനകൾ</string>

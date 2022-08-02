@@ -171,9 +171,11 @@
 <string name="tooltip_new_requests">येथे नवीन लाईव्ह रिक्वेस्ट्स पहा</string>
 <string name="tooltip_send_request">लाईव्ह जॉईन करण्यासाठी टॅप करा </string>
 <string name="deleted_message_label">ही कमेंट डिलीट केली आहे</string>
-<string name="co_host_removed_by_host">होस्टने तुम्हाला लाइव्हस्ट्रीममधून काढून टाकले आहे. तुम्ही अजूनही पाहणे सुरू ठेवू शकता.</string>
+<string name="co_host_removed_by_host">होस्टने तुम्हाला लाईव्हस्ट्रीममधून काढून टाकले आहे. तुम्ही अजूनही पाहणे सुरू ठेवू शकता.</string>
 <string name="cancelling_request">रिक्वेस्ट कॅन्सल करत आहोत </string>
 <string name="joining_live_request">लाईव्ह जॉईन करत आहोत </string>
 <string name="tnc_subtitle">तुम्ही पब्लिश केलेला कंटेंट शेअरचॅटला सुरक्षित आणि प्रेरणादायी ठिकाण बनवण्यात मदत करते. जो कोणी कंटेंट तयार करतो त्याने तो पब्लिश करण्यापूर्वी क्रिएटर कोड वाचला पाहिजे आणि त्यास सहमती दर्शविली पाहिजे.</string>
-<string name="tnc_fact">माझे फॅक्ट तपासा, माहिती अचूक आणि तथ्यपूर्ण असल्याची खात्री करा.</string>
+<string name="tnc_fact">माझे फॅक्ट्स तपासा, माहिती अचूक आणि तथ्यपूर्ण असल्याची खात्री करा.</string>
 <string name="preparing_to_go_live">लाईव्ह जाण्याची तयारी करत आहोत</string>
+<string name="i_agree_with_tnc"></string>
+<string name="sc_live_tnc"></string>
